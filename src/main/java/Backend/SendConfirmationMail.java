@@ -15,8 +15,8 @@ public class SendConfirmationMail
 {
     public static void sendConfirmationMail(String to_email, String subject, String message)
     {
-        String from_email="sritamtest2@gmail.com";
-        String mail_password="wfuk dcrw jmtk aarb";
+        String from_email="xyz@gmail.com";
+        String mail_password="app password";
         // 1. Create an instance of Properties class
         Properties props=new Properties();
         
